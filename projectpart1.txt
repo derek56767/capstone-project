@@ -7,6 +7,8 @@ Use of data to solve problem:
 step 1: extract data location about Greater Orlando from a website such as Wikipedia to find out how Greater Orlando is divided.
 step 2: use Nominatim from geocoder to find out approximate coordinates for each division of Greater Orlando.
 step 3: use the Foursquare API to find out where pharmacies can be found in each division, and thus, all over Greater Orlando.
-step 4: use dataframes from pandas to take data from Foursquare to find the frequency of pharmacies.
-step 5: use the data from the dataframes to split areas into clusters based on frequency of pharmacies.
-step 6: compare data between divisions of Greater Orlando and determine conclusions.
+step 4: map data using Folium
+step 5: use dataframes from pandas to take data from Foursquare to find the frequency of pharmacies.
+step 6: use the data from the dataframes to split areas into clusters based on frequency of pharmacies.
+step 7: use folium once again to see clusters
+step 8: compare data between divisions of Greater Orlando and determine conclusions.
