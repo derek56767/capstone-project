@@ -1,7 +1,8 @@
 problem: finding a location for a pharmacy in Orlando, Florida.
 
 background: Florida has been one of the states hardest hit by the latest wave of COVID-19, so the addition of another pharmacy could help with the supply and
-            accessibility of medicine and masks in an area that most needs it
+            accessibility of medicine and masks in an area that most needs it. Audience are pharmacists looking for a location and people who don't want to travel 
+            as far to get their medicine.
             
 use of data to solve problem: use the foursquare API to find out which neighbourhoods or boroughs have the least amount of pharmacies, which will then allow me 
-                              to find the ideal neighbourhood(s) to put it in.
+                              to find the ideal neighbourhood(s) to put it in. 
